@@ -1,0 +1,2 @@
+# density-occlusion-culling
+The project delves into the various algorithms pertaining to occlusion culling. Most of the classic algorithms related to occlusion culling try to sort the polygons(objects) based on various properties like distance from view point etc. We considered a density based approach to Occlusion culling as probability of occlusion is proportional to density and inversely proportional to distance.
